@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Codewars](https://www.codewars.com/users/ong_ba_muoi/badges/large)](https://www.codewars.com/users/ong_ba_muoi)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/ongbamuoi?theme=dark)](https://leetcode.com/u/ongbamuoi/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ongbamuoi/)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/ong_ba_muoi)
